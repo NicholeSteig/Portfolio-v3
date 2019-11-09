@@ -1,4 +1,10 @@
-.name {
-    color: #f7be16;
-background-color: #293462;
+.head-nav {
+background-color: #f5f5c6;
+}
+
+.main-card {
+    width: 720px;
+    color: #27253d;
+    background-color: #f5f5c6;
+    align-content: center;
 }
