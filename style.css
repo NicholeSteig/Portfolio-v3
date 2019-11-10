@@ -12,3 +12,11 @@ font-family: 'Source Sans Pro', sans-serif;
         margin-bottom: 10px;
         font-family: 'Source Sans Pro', sans-serif;
 }
+
+/* .styled {
+    text-align: center;
+} */
+
+.bolded {
+    font-weight: bolder;
+}
